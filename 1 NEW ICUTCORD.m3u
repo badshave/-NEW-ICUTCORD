@@ -1,0 +1,602 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="RACING",SKY SPORTS RACING | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201127.ts
+#EXTINF:-1,SKY SPORTS RACING
+https://lotustv.be:443/live/jennyBOY/345ERT345/201130.ts
+#EXTINF:-1,Racing TV HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412700.ts
+#EXTINF:-1 group-title="SKY SPORT",SKY SPORTS MAIN EVENT | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201117.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+https://lotustv.be:443/live/jennyBOY/345ERT345/201132.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201137.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+https://lotustv.be:443/live/jennyBOY/345ERT345/201131.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201119.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL
+https://lotustv.be:443/live/jennyBOY/345ERT345/201138.ts
+#EXTINF:-1,SKY SPORTS ARENA | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201124.ts
+#EXTINF:-1,SKY SPORTS ARENA
+https://lotustv.be:443/live/jennyBOY/345ERT345/201139.ts
+#EXTINF:-1,SKY SPORTS ACTION | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201123.ts
+#EXTINF:-1,SKY SPORTS ACTION
+https://lotustv.be:443/live/jennyBOY/345ERT345/201136.ts
+#EXTINF:-1,SKY SPORTS MIX | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201126.ts
+#EXTINF:-1,SKY SPORTS MIX
+https://lotustv.be:443/live/jennyBOY/345ERT345/201129.ts
+#EXTINF:-1,SKY SPORTS NEWS | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201125.ts
+#EXTINF:-1,SKY SPORTS NEWS
+https://lotustv.be:443/live/jennyBOY/345ERT345/201128.ts
+#EXTINF:-1,SKY SPORTS GOLF | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201121.ts
+#EXTINF:-1,SKY SPORTS F1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201122.ts
+#EXTINF:-1,SKY SPORTS CRICKET | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201120.ts
+#EXTINF:-1,SKY SPORTS GOLF
+https://lotustv.be:443/live/jennyBOY/345ERT345/201133.ts
+#EXTINF:-1,SKY SPORTS F1
+https://lotustv.be:443/live/jennyBOY/345ERT345/201134.ts
+#EXTINF:-1,SKY SPORTS CRICKET
+https://lotustv.be:443/live/jennyBOY/345ERT345/201135.ts
+#EXTINF:-1 group-title="BT",BT SPORT 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201105.ts
+#EXTINF:-1,BT SPORT 1 | UHD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201107.ts
+#EXTINF:-1,BT SPORT 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201106.ts
+#EXTINF:-1,BT SPORT 2 | UHD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201108.ts
+#EXTINF:-1,BT SPORT 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201109.ts
+#EXTINF:-1,BT SPORT ESPN | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201111.ts
+#EXTINF:-1,EUROSPORT 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201113.ts
+#EXTINF:-1,EUROSPORT 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201115.ts
+#EXTINF:-1,BOX NATION | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201100.ts
+#EXTINF:-1,Premiere Sports 1  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412712.ts
+#EXTINF:-1,Premier Sports 2  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412713.ts
+#EXTINF:-1,TRT World | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412690.ts
+#EXTINF:-1,FREESPORTS | UHD
+https://lotustv.be:443/live/jennyBOY/345ERT345/201142.ts
+#EXTINF:-1,MUTV
+https://lotustv.be:443/live/jennyBOY/345ERT345/412711.ts
+#EXTINF:-1 group-title="SUPERSPORT",SuperSport Premier League | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171558.ts
+#EXTINF:-1,SuperSport Football | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171563.ts
+#EXTINF:-1,SuperSport Maximo | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171568.ts
+#EXTINF:-1,SuperSport Grandstand | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171559.ts
+#EXTINF:-1,SuperSport PSL | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171557.ts
+#EXTINF:-1,SuperSport Variety 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171560.ts
+#EXTINF:-1,SuperSport Variety 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171564.ts
+#EXTINF:-1,SuperSport Variety 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171565.ts
+#EXTINF:-1,SuperSport Cricket | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171567.ts
+#EXTINF:-1,SuperSport La Liga | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171556.ts
+#EXTINF:-1,SuperSport Action | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171562.ts
+#EXTINF:-1,SuperSport Rugby | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171566.ts
+#EXTINF:-1,SuperSport Blitz | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171569.ts
+#EXTINF:-1 group-title="DAZN",DAZN 1 Bar | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328718.ts
+#EXTINF:-1,DAZN 2 Bar | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328719.ts
+#EXTINF:-1,DAZN 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306363.ts
+#EXTINF:-1,DAZN 1 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306376.ts
+#EXTINF:-1,DAZN 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306364.ts
+#EXTINF:-1,DAZN 2 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306377.ts
+#EXTINF:-1,DAZN 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306365.ts
+#EXTINF:-1,DAZN 3 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306378.ts
+#EXTINF:-1,DAZN 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306366.ts
+#EXTINF:-1,DAZN 4 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306379.ts
+#EXTINF:-1,DAZN 5 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306367.ts
+#EXTINF:-1,DAZN 5 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306380.ts
+#EXTINF:-1,DAZN 6 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306368.ts
+#EXTINF:-1,DAZN 6 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306381.ts
+#EXTINF:-1,DAZN 7 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306369.ts
+#EXTINF:-1,DAZN 7 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306382.ts
+#EXTINF:-1,DAZN 8 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306370.ts
+#EXTINF:-1,DAZN 8 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306383.ts
+#EXTINF:-1,DAZN 9 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306371.ts
+#EXTINF:-1,DAZN 9 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306384.ts
+#EXTINF:-1,DAZN 10 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306372.ts
+#EXTINF:-1,DAZN 10 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306385.ts
+#EXTINF:-1,DAZN 11 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306373.ts
+#EXTINF:-1,DAZN 11 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306386.ts
+#EXTINF:-1,DAZN 12 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306374.ts
+#EXTINF:-1,DAZN 12 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306387.ts
+#EXTINF:-1,DAZN 13 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306375.ts
+#EXTINF:-1,DE: DAZN 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306392.ts
+#EXTINF:-1,DE: DAZN 1 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306394.ts
+#EXTINF:-1,DE: DAZN 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306393.ts
+#EXTINF:-1,DE: DAZN 2 (Backup) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306395.ts
+#EXTINF:-1,BR: DAZN 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306388.ts
+#EXTINF:-1,BR: DAZN 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306389.ts
+#EXTINF:-1,BR: DAZN 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306390.ts
+#EXTINF:-1,BR: DAZN 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/306391.ts
+#EXTINF:-1 group-title="ASTRO",Astro Super Sports 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/317007.ts
+#EXTINF:-1,Astro Super Sports 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/317008.ts
+#EXTINF:-1,Astro Super Sports 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/317009.ts
+#EXTINF:-1,Astro Super Sports 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/317010.ts
+#EXTINF:-1,Astro Supersport 5 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/444376.ts
+#EXTINF:-1 group-title="RUSH",Rush HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/452350.ts
+#EXTINF:-1,Rush + HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/452349.ts
+#EXTINF:-1,RUSH
+https://lotustv.be:443/live/jennyBOY/345ERT345/441619.ts
+#EXTINF:-1,RUSH EXTRA 2
+https://lotustv.be:443/live/jennyBOY/345ERT345/441503.ts
+#EXTINF:-1,RUSH EXTRA 3
+https://lotustv.be:443/live/jennyBOY/345ERT345/441504.ts
+#EXTINF:-1,RUSH EXTRA 4
+https://lotustv.be:443/live/jennyBOY/345ERT345/441505.ts
+#EXTINF:-1,RUSH EXTRA 5
+https://lotustv.be:443/live/jennyBOY/345ERT345/441506.ts
+#EXTINF:-1,RUSH EXTRA 6
+https://lotustv.be:443/live/jennyBOY/345ERT345/441507.ts
+#EXTINF:-1,Flow Sports
+https://lotustv.be:443/live/jennyBOY/345ERT345/441511.ts
+#EXTINF:-1,Goal Rush
+https://lotustv.be:443/live/jennyBOY/345ERT345/441534.ts
+#EXTINF:-1 group-title="BEIN",beIN Sports 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265955.ts
+#EXTINF:-1,beIN Sports 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265952.ts
+#EXTINF:-1,beIN Sports 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265951.ts
+#EXTINF:-1,beIN Sports 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265950.ts
+#EXTINF:-1,beIN Sports 5 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265949.ts
+#EXTINF:-1,beIN Sports 6 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265948.ts
+#EXTINF:-1,beIN Sports 7 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265947.ts
+#EXTINF:-1,beIN Sports USA | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265941.ts
+#EXTINF:-1,beIN Sports La Liga | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265942.ts
+#EXTINF:-1,beIN Sports En Espanyol | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/265943.ts
+#EXTINF:-1 group-title="RMC",RMC SPORT 1 ACCESS | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327765.ts
+#EXTINF:-1,RMC SPORT 2 ACCESS | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327766.ts
+#EXTINF:-1,RMC SPORT 3 ACCESS | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327767.ts
+#EXTINF:-1,RMC Sport 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327768.ts
+#EXTINF:-1,RMC Sport 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327769.ts
+#EXTINF:-1,RMC Sport 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327770.ts
+#EXTINF:-1,RMC Sport 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327771.ts
+#EXTINF:-1,RMC Sport 5 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327772.ts
+#EXTINF:-1,RMC Sport 6 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327773.ts
+#EXTINF:-1,RMC Sport 7 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327774.ts
+#EXTINF:-1,RMC Sport 8 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327775.ts
+#EXTINF:-1,RMC Sport 9 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327776.ts
+#EXTINF:-1,RMC Sport 10 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327777.ts
+#EXTINF:-1,RMC Sport 11 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327778.ts
+#EXTINF:-1,RMC Sport 12 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327779.ts
+#EXTINF:-1,RMC Sport 13 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327780.ts
+#EXTINF:-1,RMC Sport 14 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327781.ts
+#EXTINF:-1,RMC Sport 15 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327782.ts
+#EXTINF:-1,RMC Sport 16 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/327783.ts
+#EXTINF:-1 group-title="GERMAN SKY",Sky Sport 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328869.ts
+#EXTINF:-1,Sky Sport 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328870.ts
+#EXTINF:-1,Sky Sport 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328871.ts
+#EXTINF:-1,Sky Sport 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328872.ts
+#EXTINF:-1,Sky Sport 5 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328873.ts
+#EXTINF:-1,Sky Sport 6 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328874.ts
+#EXTINF:-1,Sky Sport 7 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328875.ts
+#EXTINF:-1,Sky Sport 8 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328876.ts
+#EXTINF:-1,Sky Sport 9 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328877.ts
+#EXTINF:-1,Sky Sport 10 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328878.ts
+#EXTINF:-1,Sky Sport 11 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328879.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328880.ts
+#EXTINF:-1,Sky Sport Bundesliga 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328881.ts
+#EXTINF:-1,Sky Sport Bundesliga 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328882.ts
+#EXTINF:-1,Sky Sport Bundesliga 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328883.ts
+#EXTINF:-1,Sky Sport Bundesliga 5 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328884.ts
+#EXTINF:-1,Sky Sport Bundesliga 6 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328885.ts
+#EXTINF:-1,Sky Sport Bundesliga 7 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328886.ts
+#EXTINF:-1,Sky Sport Bundesliga 8 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328887.ts
+#EXTINF:-1,Sky Sport Bundesliga 9 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328888.ts
+#EXTINF:-1,Sky Sport Bundesliga 10 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328889.ts
+#EXTINF:-1,Sky Sport Austria | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/328891.ts
+#EXTINF:-1 group-title="SPORT TV",SPORT TV1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/453205.ts
+#EXTINF:-1,SPORT TV2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/453282.ts
+#EXTINF:-1,SPORT TV3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/453283.ts
+#EXTINF:-1,SPORT TV5 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/453284.ts
+#EXTINF:-1,SPORT TV4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/453285.ts
+#EXTINF:-1,SPORT TV+
+https://lotustv.be:443/live/jennyBOY/345ERT345/453305.ts
+#EXTINF:-1 group-title="USA | Sports",NBC SPORTS NETWORK (NBCSN) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/62445.ts
+#EXTINF:-1,ESPN | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/62399.ts
+#EXTINF:-1,ESPN 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/62478.ts
+#EXTINF:-1,ESPN 3 (MEX) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/138000.ts
+#EXTINF:-1,FOX SPORTS 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/62462.ts
+#EXTINF:-1,FOX SPORTS 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/62441.ts
+#EXTINF:-1,CBS Sports Network | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/62500.ts
+#EXTINF:-1,Gol TV (English) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/442842.ts
+#EXTINF:-1,BEIN SPORT USA | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/139293.ts
+#EXTINF:-1,BEIN SPORTS 2 (LA LIGA) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/139292.ts
+#EXTINF:-1,BEIN SPORTS 3 (Español) | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/139291.ts
+#EXTINF:-1,BEIN SPORTS 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/139290.ts
+#EXTINF:-1,BEIN SPORTS 5 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/139289.ts
+#EXTINF:-1,BEIN SPORTS 6 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/139288.ts
+#EXTINF:-1,BEIN SPORTS 7 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/139287.ts
+#EXTINF:-1,BEIN SPORTS 8 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/139286.ts
+#EXTINF:-1 group-title="UK | Network TV",BBC 1 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/171986.ts
+#EXTINF:-1,Quest Red
+https://lotustv.be:443/live/jennyBOY/345ERT345/439607.ts
+#EXTINF:-1,Leeds TV
+https://lotustv.be:443/live/jennyBOY/345ERT345/439606.ts
+#EXTINF:-1,Eden  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412568.ts
+#EXTINF:-1,Really UKTV
+https://lotustv.be:443/live/jennyBOY/345ERT345/412569.ts
+#EXTINF:-1,Drama  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412570.ts
+#EXTINF:-1,Alibi HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412571.ts
+#EXTINF:-1,Home Health  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412572.ts
+#EXTINF:-1,Gold  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412573.ts
+#EXTINF:-1,Comedy Central Xtra  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412574.ts
+#EXTINF:-1,True Drama  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412576.ts
+#EXTINF:-1,TLC  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412577.ts
+#EXTINF:-1,Dave  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412579.ts
+#EXTINF:-1,E!  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412580.ts
+#EXTINF:-1,SyFy  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412581.ts
+#EXTINF:-1,Challenge TV
+https://lotustv.be:443/live/jennyBOY/345ERT345/412582.ts
+#EXTINF:-1,Universal  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412583.ts
+#EXTINF:-1,Food Network  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412584.ts
+#EXTINF:-1,Tru TV
+https://lotustv.be:443/live/jennyBOY/345ERT345/412585.ts
+#EXTINF:-1,Travel Channel  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412586.ts
+#EXTINF:-1,CBS Reality
+https://lotustv.be:443/live/jennyBOY/345ERT345/412587.ts
+#EXTINF:-1,CBS Action  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412588.ts
+#EXTINF:-1,CBS Drama  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412589.ts
+#EXTINF:-1,Fox  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412591.ts
+#EXTINF:-1,Sky Arts HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412592.ts
+#EXTINF:-1,Sky Witness HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412593.ts
+#EXTINF:-1,Sky Atlantic HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412594.ts
+#EXTINF:-1,Sky 1 HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412596.ts
+#EXTINF:-1,AMC  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412597.ts
+#EXTINF:-1,BBC NEWS
+https://lotustv.be:443/live/jennyBOY/345ERT345/412607.ts
+#EXTINF:-1,Channel 4
+https://lotustv.be:443/live/jennyBOY/345ERT345/412618.ts
+#EXTINF:-1,Citv | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412619.ts
+#EXTINF:-1,Comedy Central
+https://lotustv.be:443/live/jennyBOY/345ERT345/412621.ts
+#EXTINF:-1,Five
+https://lotustv.be:443/live/jennyBOY/345ERT345/412627.ts
+#EXTINF:-1,ITV 2 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412631.ts
+#EXTINF:-1,ITV 2
+https://lotustv.be:443/live/jennyBOY/345ERT345/412632.ts
+#EXTINF:-1,ITV 3 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412633.ts
+#EXTINF:-1,ITV 4 | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412635.ts
+#EXTINF:-1,ITV be | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412637.ts
+#EXTINF:-1,ITV
+https://lotustv.be:443/live/jennyBOY/345ERT345/412640.ts
+#EXTINF:-1,Lifetime | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412643.ts
+#EXTINF:-1,MTV  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412646.ts
+#EXTINF:-1,Paramount Network
+https://lotustv.be:443/live/jennyBOY/345ERT345/412650.ts
+#EXTINF:-1,Quest  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412653.ts
+#EXTINF:-1,Good Food  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412654.ts
+#EXTINF:-1,S4C
+https://lotustv.be:443/live/jennyBOY/345ERT345/412655.ts
+#EXTINF:-1,4Seven  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412656.ts
+#EXTINF:-1,E4
+https://lotustv.be:443/live/jennyBOY/345ERT345/412657.ts
+#EXTINF:-1,More4  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412658.ts
+#EXTINF:-1,STV
+https://lotustv.be:443/live/jennyBOY/345ERT345/412659.ts
+#EXTINF:-1,5 USA
+https://lotustv.be:443/live/jennyBOY/345ERT345/412661.ts
+#EXTINF:-1,5 Star
+https://lotustv.be:443/live/jennyBOY/345ERT345/412662.ts
+#EXTINF:-1,5SELECT
+https://lotustv.be:443/live/jennyBOY/345ERT345/412663.ts
+#EXTINF:-1,ITVBe  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412664.ts
+#EXTINF:-1,ITV4   | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412665.ts
+#EXTINF:-1,ITV3
+https://lotustv.be:443/live/jennyBOY/345ERT345/412667.ts
+#EXTINF:-1,ITV2   | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412669.ts
+#EXTINF:-1,Channel 5 HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412673.ts
+#EXTINF:-1,ITV   | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412677.ts
+#EXTINF:-1,VH1  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412682.ts
+#EXTINF:-1,MTV Music
+https://lotustv.be:443/live/jennyBOY/345ERT345/412683.ts
+#EXTINF:-1,MTV Hits  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412684.ts
+#EXTINF:-1,MTV Rocks
+https://lotustv.be:443/live/jennyBOY/345ERT345/412685.ts
+#EXTINF:-1,MTV Dance  | HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/412686.ts
+#EXTINF:-1,4Music
+https://lotustv.be:443/live/jennyBOY/345ERT345/412687.ts
+#EXTINF:-1,MTV Base
+https://lotustv.be:443/live/jennyBOY/345ERT345/412688.ts
+#EXTINF:-1,TG4 HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/439537.ts
+#EXTINF:-1,Virgin Media One
+https://lotustv.be:443/live/jennyBOY/345ERT345/439538.ts
+#EXTINF:-1,RTÉ 2 HD
+https://lotustv.be:443/live/jennyBOY/345ERT345/439539.ts
+#EXTINF:-1,Sky Cinema Animation
+https://lotustv.be:443/live/jennyBOY/345ERT345/439547.ts
+#EXTINF:-1,Virgin Media Two
+https://lotustv.be:443/live/jennyBOY/345ERT345/439548.ts
+#EXTINF:-1,Virgin Media Three
+https://lotustv.be:443/live/jennyBOY/345ERT345/439549.ts
+#EXTINF:-1 group-title="Pay Per View Events",PPV 24/7
+https://lotustv.be:443/live/jennyBOY/345ERT345/336514.ts
+#EXTINF:-1,FITE TV 24/7
+https://lotustv.be:443/live/jennyBOY/345ERT345/336515.ts
+#EXTINF:-1,Martial Arts 24/7
+https://lotustv.be:443/live/jennyBOY/345ERT345/336516.ts
+#EXTINF:-1,PPV 01:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336466.ts
+#EXTINF:-1,PPV 02:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336465.ts
+#EXTINF:-1,PPV 03:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336467.ts
+#EXTINF:-1,PPV 04:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336468.ts
+#EXTINF:-1,PPV 05:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336469.ts
+#EXTINF:-1,PPV 06:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336470.ts
+#EXTINF:-1,PPV 07:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336471.ts
+#EXTINF:-1,PPV 08:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336472.ts
+#EXTINF:-1,PPV 09:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336475.ts
+#EXTINF:-1,PPV 10:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336476.ts
+#EXTINF:-1,PPV 11:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336477.ts
+#EXTINF:-1,PPV 12:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336478.ts
+#EXTINF:-1,PPV 13:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336479.ts
+#EXTINF:-1,PPV 14:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336480.ts
+#EXTINF:-1,PPV 15:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336481.ts
+#EXTINF:-1,PPV 16:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336482.ts
+#EXTINF:-1,PPV 17:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336483.ts
+#EXTINF:-1,PPV 18:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336484.ts
+#EXTINF:-1,PPV 19:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336485.ts
+#EXTINF:-1,PPV 20:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336486.ts
+#EXTINF:-1,PPV 21:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336487.ts
+#EXTINF:-1,PPV 22:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336488.ts
+#EXTINF:-1,PPV 23:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336489.ts
+#EXTINF:-1,PPV 24:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336490.ts
+#EXTINF:-1,PPV 25:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336491.ts
+#EXTINF:-1,PPV 26:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336492.ts
+#EXTINF:-1,PPV 27:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336493.ts
+#EXTINF:-1,PPV 28:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336494.ts
+#EXTINF:-1,PPV 29:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336495.ts
+#EXTINF:-1,PPV 30:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336496.ts
+#EXTINF:-1,PPV 31:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336497.ts
+#EXTINF:-1,PPV 32:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336498.ts
+#EXTINF:-1,PPV 33:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336499.ts
+#EXTINF:-1,PPV 34:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336500.ts
+#EXTINF:-1,PPV  35:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336501.ts
+#EXTINF:-1,PPV 36:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336502.ts
+#EXTINF:-1,PPV 37:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336503.ts
+#EXTINF:-1,PPV 38:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336504.ts
+#EXTINF:-1,PPV 39:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336505.ts
+#EXTINF:-1,PPV 40:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336506.ts
+#EXTINF:-1,PPV 41:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336507.ts
+#EXTINF:-1,PPV 42:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336508.ts
+#EXTINF:-1,PPV 43:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336509.ts
+#EXTINF:-1,PPV 44:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336510.ts
+#EXTINF:-1,PPV 45:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336511.ts
+#EXTINF:-1,PPV 46:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336512.ts
+#EXTINF:-1,PPV 47:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336513.ts
+#EXTINF:-1,PPV 54:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336473.ts
+#EXTINF:-1,PPV  55:
+https://lotustv.be:443/live/jennyBOY/345ERT345/336474.ts
+#EXTINF:-1,PPV 51:
+https://lotustv.be:443/live/jennyBOY/345ERT345/433790.ts
+#EXTINF:-1,PPV 48:
+https://lotustv.be:443/live/jennyBOY/345ERT345/433791.ts
+#EXTINF:-1,Bellator MMA 24/7
+https://lotustv.be:443/live/jennyBOY/345ERT345/452360.ts
